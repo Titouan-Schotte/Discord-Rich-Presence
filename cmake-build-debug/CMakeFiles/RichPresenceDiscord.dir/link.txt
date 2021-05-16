@@ -1,0 +1,3 @@
+"D:\Programmes\CLion\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\RichPresenceDiscord.dir/objects.a
+D:\Programmes\MinGW\mingw64\bin\ar.exe cr CMakeFiles\RichPresenceDiscord.dir/objects.a @CMakeFiles\RichPresenceDiscord.dir\objects1.rsp
+D:\Programmes\MinGW\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\RichPresenceDiscord.dir/objects.a -Wl,--no-whole-archive -o RichPresenceDiscord.exe -Wl,--out-implib,libRichPresenceDiscord.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RichPresenceDiscord.dir\linklibs.rsp

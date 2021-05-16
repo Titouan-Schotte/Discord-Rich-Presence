@@ -1,0 +1,7 @@
+{
+  "name": "discord-rich-presence",
+  "version": "1.0.0",
+  "description": "Discord RPC",
+  "main": "cmake-build-debug/index.js",
+  "author": "Titoune"
+}

@@ -1,0 +1,3 @@
+D:/CODE/C/RichPresenceDiscord/cmake-build-debug/CMakeFiles/RichPresenceDiscord.dir
+D:/CODE/C/RichPresenceDiscord/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CODE/C/RichPresenceDiscord/cmake-build-debug/CMakeFiles/rebuild_cache.dir
