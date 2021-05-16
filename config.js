@@ -1,4 +1,4 @@
-//Tout d'abord on requiert discord-rpc d'installé auparavant
+//Tout d'abord on requiert discord-rpc installé auparavant voir NodeModules
 var rpc = require("discord-rpc")
 
 
